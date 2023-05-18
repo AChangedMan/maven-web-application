@@ -107,7 +107,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>team-app</finalName>
+		<finalName>boa</finalName>
 		
 		<plugins>
 			<plugin>
